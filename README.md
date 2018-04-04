@@ -8,7 +8,7 @@
 - *Projection* Depth
 - *Simplicial* Depth
 
-Note: Mahalanobis depth does not do well for elliptical and non-elliptical distributions, projection Depth is ideal for elliptical distributions while Half-Space or Simplicial depths do well for non-elliptical distributions.
+Note: Mahalanobis depth does not do well for elliptical and non-elliptical distributions, projection depth is ideal for elliptical distributions while half-space or simplicial depths do well for non-elliptical distributions.
 
 ## References
 
